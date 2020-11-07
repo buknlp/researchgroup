@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Isa Inuwa-Dutse | BUKNLP Research Group</title>
-    <link>/author/isa-inuwa-dutse/</link>
-      <atom:link href="/author/isa-inuwa-dutse/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://buknlp.github.io/researchgroup/author/isa-inuwa-dutse/</link>
+      <atom:link href="https://buknlp.github.io/researchgroup/author/isa-inuwa-dutse/index.xml" rel="self" type="application/rss+xml" />
     <description>Isa Inuwa-Dutse</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020 BUKNLP Research Group </copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0582a6b20ca56a312d8243a49944178d_19549_512x512_fill_lanczos_center_2.png</url>
+      <url>https://buknlp.github.io/researchgroup/images/icon_hu0582a6b20ca56a312d8243a49944178d_19549_512x512_fill_lanczos_center_2.png</url>
       <title>Isa Inuwa-Dutse</title>
-      <link>/author/isa-inuwa-dutse/</link>
+      <link>https://buknlp.github.io/researchgroup/author/isa-inuwa-dutse/</link>
     </image>
     
     <item>
       <title>Lexical analysis of automated accounts on Twitter</title>
-      <link>/publication/inuwa-2018-lexical/</link>
+      <link>https://buknlp.github.io/researchgroup/publication/inuwa-2018-lexical/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/inuwa-2018-lexical/</guid>
+      <guid>https://buknlp.github.io/researchgroup/publication/inuwa-2018-lexical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lexical analysis of automated accounts on Twitter</title>
-      <link>/publication/inuwa-dutse-2018-aa/</link>
+      <link>https://buknlp.github.io/researchgroup/publication/inuwa-dutse-2018-aa/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/inuwa-dutse-2018-aa/</guid>
+      <guid>https://buknlp.github.io/researchgroup/publication/inuwa-dutse-2018-aa/</guid>
       <description></description>
     </item>
     

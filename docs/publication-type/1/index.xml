@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | BUKNLP Research Group</title>
-    <link>/publication-type/1/</link>
-      <atom:link href="/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://buknlp.github.io/researchgroup/publication-type/1/</link>
+      <atom:link href="https://buknlp.github.io/researchgroup/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020 BUKNLP Research Group </copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0582a6b20ca56a312d8243a49944178d_19549_512x512_fill_lanczos_center_2.png</url>
+      <url>https://buknlp.github.io/researchgroup/images/icon_hu0582a6b20ca56a312d8243a49944178d_19549_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
-      <link>/publication-type/1/</link>
+      <link>https://buknlp.github.io/researchgroup/publication-type/1/</link>
     </image>
     
     <item>
       <title>Incremental Approach for Automatic Generation of Domain-Specific Sentiment Lexicon</title>
-      <link>/publication/muhammad-2020-incremental/</link>
+      <link>https://buknlp.github.io/researchgroup/publication/muhammad-2020-incremental/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/muhammad-2020-incremental/</guid>
+      <guid>https://buknlp.github.io/researchgroup/publication/muhammad-2020-incremental/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An overview of sentiment analysis approaches</title>
-      <link>/publication/muhammad-2019-overview/</link>
+      <link>https://buknlp.github.io/researchgroup/publication/muhammad-2019-overview/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/muhammad-2019-overview/</guid>
+      <guid>https://buknlp.github.io/researchgroup/publication/muhammad-2019-overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analyzing the Behaviour of Twitter Bots in Post Brexit Politics</title>
-      <link>/publication/bello-2019-analyzing/</link>
+      <link>https://buknlp.github.io/researchgroup/publication/bello-2019-analyzing/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/bello-2019-analyzing/</guid>
+      <guid>https://buknlp.github.io/researchgroup/publication/bello-2019-analyzing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reverse engineering the behaviour of twitter bots</title>
-      <link>/publication/bello-2018-reverse/</link>
+      <link>https://buknlp.github.io/researchgroup/publication/bello-2018-reverse/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/bello-2018-reverse/</guid>
+      <guid>https://buknlp.github.io/researchgroup/publication/bello-2018-reverse/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text normalization algorithm for facebook chats in hausa language</title>
-      <link>/publication/maitama-2014-text/</link>
+      <link>https://buknlp.github.io/researchgroup/publication/maitama-2014-text/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/maitama-2014-text/</guid>
+      <guid>https://buknlp.github.io/researchgroup/publication/maitama-2014-text/</guid>
       <description>&lt;p&gt;The rapid increase in using non-standard words (NSWs) in communication through the social media is causing difficulties in understanding contents of the text messages. In addition, it affects the performance of several natural language processing (NLP) task such as machine translation, information retrievals, summarization and etc. In this study, we present an automatic text normalization system on Facebook chatting based on Hausa language. The proposed algorithm manually developed dictionary that employ normalization of each non-standard word with its equivalent standard word. This is accomplished through modification of the technique employed by [1] to fit Hausa NSWs&#39; formation. It was found that our proposed algorithm was able to normalized Hausa NSWs with an accuracy of 100%The results of this research can facilitate comprehensive communication via Facebook using Hausa language.&lt;/p&gt;
 &lt;style&gt;
 body {

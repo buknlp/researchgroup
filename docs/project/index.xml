@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | BUKNLP Research Group</title>
-    <link>/project/</link>
-      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://buknlp.github.io/researchgroup/project/</link>
+      <atom:link href="https://buknlp.github.io/researchgroup/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020 BUKNLP Research Group </copyright><lastBuildDate>Thu, 27 Feb 2020 00:00:00 +0100</lastBuildDate>
     <image>
-      <url>/images/icon_hu0582a6b20ca56a312d8243a49944178d_19549_512x512_fill_lanczos_center_2.png</url>
+      <url>https://buknlp.github.io/researchgroup/images/icon_hu0582a6b20ca56a312d8243a49944178d_19549_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>/project/</link>
+      <link>https://buknlp.github.io/researchgroup/project/</link>
     </image>
     
     <item>
       <title>HausaNLP</title>
-      <link>/project/hausanlp/</link>
+      <link>https://buknlp.github.io/researchgroup/project/hausanlp/</link>
       <pubDate>Thu, 27 Feb 2020 00:00:00 +0100</pubDate>
-      <guid>/project/hausanlp/</guid>
+      <guid>https://buknlp.github.io/researchgroup/project/hausanlp/</guid>
       <description>&lt;p&gt;An ongoing project towards developing Hausa language resources for Natural Language Processing, which includes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Hausa Social Media Corpus&lt;/li&gt;
