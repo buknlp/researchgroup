@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aliyu Garba | BUKNLP Research Group</title>
+    <link>/author/aliyu-garba/</link>
+      <atom:link href="/author/aliyu-garba/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aliyu Garba</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020 BUKNLP Research Group </copyright><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0582a6b20ca56a312d8243a49944178d_19549_512x512_fill_lanczos_center_2.png</url>
+      <title>Aliyu Garba</title>
+      <link>/author/aliyu-garba/</link>
+    </image>
+    
+    <item>
+      <title>Tag-less Back-Translation</title>
+      <link>/publication/abdulmumin-2019-ab/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/abdulmumin-2019-ab/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

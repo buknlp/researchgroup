@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heckel Reiko | BUKNLP Research Group</title>
+    <link>/author/heckel-reiko/</link>
+      <atom:link href="/author/heckel-reiko/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heckel Reiko</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020 BUKNLP Research Group </copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0582a6b20ca56a312d8243a49944178d_19549_512x512_fill_lanczos_center_2.png</url>
+      <title>Heckel Reiko</title>
+      <link>/author/heckel-reiko/</link>
+    </image>
+    
+    <item>
+      <title>The effect of engagement intensity and lexical richness in identifying bot accounts on twitter</title>
+      <link>/publication/inuwa-2018-effect/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/inuwa-2018-effect/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

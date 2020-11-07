@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BUKNLP Research Group</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>BUKNLP Research Group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020 BUKNLP Research Group </copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0582a6b20ca56a312d8243a49944178d_19549_512x512_fill_lanczos_center_2.png</url>
+      <title>BUKNLP Research Group</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages</title>
+      <link>/publication/nekoto-2020-aa/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nekoto-2020-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using Self-Training to Improve Back-Translation in Low Resource Neural Machine Translation</title>
+      <link>/publication/abdulmumin-2020-aa/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/abdulmumin-2020-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HausaNLP</title>
+      <link>/project/hausanlp/</link>
+      <pubDate>Thu, 27 Feb 2020 00:00:00 +0100</pubDate>
+      <guid>/project/hausanlp/</guid>
+      <description>&lt;p&gt;An ongoing project towards developing Hausa language resources for Natural Language Processing, which includes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hausa Social Media Corpus&lt;/li&gt;
+&lt;li&gt;HausaNER&lt;/li&gt;
+&lt;li&gt;Hausa Sentiment Lexicon&lt;/li&gt;
+&lt;li&gt;Hausa POS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;style&gt;
+body {
+text-align: justify}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A survey on machine learning techniques in movie revenue prediction</title>
+      <link>/publication/ahmad-2020-survey/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ahmad-2020-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond Sentiment Classification: A Novel Approach for Utilizing Social Media Data for Business Intelligence</title>
+      <link>/publication/ahmadbeyond/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ahmadbeyond/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Approach for Automatic Generation of Domain-Specific Sentiment Lexicon</title>
+      <link>/publication/muhammad-2020-incremental/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/muhammad-2020-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movie Revenue Prediction Based on Purchase Intention Mining Using YouTube Trailer Reviews</title>
+      <link>/publication/ahmad-2020-movie/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ahmad-2020-movie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages</title>
+      <link>/publication/nekoto-2020-participatory/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/nekoto-2020-participatory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequel movie revenue prediction model based on sentiment analysis</title>
+      <link>/publication/ahmad-2020-sequel/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/ahmad-2020-sequel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tag-less Back-Translation</title>
+      <link>/publication/abdulmumin-2019-ab/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/abdulmumin-2019-ab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hauWE: Hausa Words Embedding for Natural Language Processing</title>
+      <link>/publication/abdulmumin-2019-aa/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/abdulmumin-2019-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A review of feature selection in sentiment analysis using information gain and domain specific ontology</title>
+      <link>/publication/ahmad-2019-review/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/ahmad-2019-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An overview of sentiment analysis approaches</title>
+      <link>/publication/muhammad-2019-overview/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/muhammad-2019-overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Behaviour of Twitter Bots in Post Brexit Politics</title>
+      <link>/publication/bello-2019-analyzing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bello-2019-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CURRENT TRENDS AND RESEARCH DIRECTIONS IN THE DICTIONARY-BASED APPROACH FOR SENTIMENT LEXICON GENERATION: A SURVEY</title>
+      <link>/publication/osman-2019-current/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/osman-2019-current/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical analysis of automated accounts on Twitter</title>
+      <link>/publication/inuwa-2018-lexical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/inuwa-2018-lexical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lexical analysis of automated accounts on Twitter</title>
+      <link>/publication/inuwa-dutse-2018-aa/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/inuwa-dutse-2018-aa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reverse engineering the behaviour of twitter bots</title>
+      <link>/publication/bello-2018-reverse/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bello-2018-reverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of engagement intensity and lexical richness in identifying bot accounts on twitter</title>
+      <link>/publication/inuwa-2018-effect/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/inuwa-2018-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text normalization algorithm for facebook chats in hausa language</title>
+      <link>/publication/maitama-2014-text/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/maitama-2014-text/</guid>
+      <description>&lt;p&gt;The rapid increase in using non-standard words (NSWs) in communication through the social media is causing difficulties in understanding contents of the text messages. In addition, it affects the performance of several natural language processing (NLP) task such as machine translation, information retrievals, summarization and etc. In this study, we present an automatic text normalization system on Facebook chatting based on Hausa language. The proposed algorithm manually developed dictionary that employ normalization of each non-standard word with its equivalent standard word. This is accomplished through modification of the technique employed by [1] to fit Hausa NSWs&#39; formation. It was found that our proposed algorithm was able to normalized Hausa NSWs with an accuracy of 100%The results of this research can facilitate comprehensive communication via Facebook using Hausa language.&lt;/p&gt;
+&lt;style&gt;
+body {
+text-align: justify}
+&lt;/style&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
