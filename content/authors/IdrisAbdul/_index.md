@@ -1,44 +1,40 @@
 ---
 # Display name
-title: Jaafar Zubairu Maitama
+title: Idris Abdulmuminu
 
 # Username (this should match the folder name)
 authors:
-- jaafar
+- IdrisAbdul
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lecturer in Computer Science
-
+role: Lecturer in Computer Science at Ahmadu Bello University, Zaria (ABU)
 
 # Organizations/Affiliations
 organizations:
-- name: Bayero University, Kano
-  url: ""
+- name: Ahmadu Bello University, Kano
+  url: "http://abu.edu.ng/"
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-
-- Natural Language Processing
-- Summarization
-- Machine learning 
-- Sentiment analysis
+- Neural Machine Translation
+- Low Resource Languages
 
 education:
   courses:
   - course: PhD in Computer Science(In View)
-    institution: University of Malaya
-  - course: Masters in Computer Science
-    institution: University of Malaya
-    year: 2015
+    institution: Bayero University, Kano -Nigeria
+  - course: MSc IT Security, 
+    institution: Nottingham Trent University 
+    year: 2017
   - course: BSc in Computer Science
     institution: Bayero University, Kano
-    year: 2011
-
+    year: 2013
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -46,12 +42,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:jzmaitama.it@buk.edu.ng'  
+  link: 'mailto:abdulmuminidrisriruwai@gmail.com'  
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=_9z9sXsAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=UJBFXaoAAAAJ&hl=en
   
- 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -63,9 +58,18 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups: ["Researchers"]
-
-
+user_groups: ['Collaborators']
 ---
 
-Jaafar Zubairu Maitama is lecturer in the Department of Information Technology, Bayero University Kano. He received a B.Sc. degree in Computer Science from Bayero University, Kano, Nigeria in 2011 and a Master’s degree in Computer Science (Artificial Intelligence) in 2015 at University of Malaya, Malaysia. He is currently a PhD researcher in Artificial Intelligence Department, University of Malaya. His research interest includes natural language processing, summarization, machine learning, and sentiment analysis
+
+Idris Abdulmumin is a Bachelor of Science graduate in Computer Science from Bayero University Kano, an MSc holder of Information Technology Security from Nottingham Trent University and a candidate for PhD in Computer Science with specialization in Neural Machine Translation for Low Resource Languages in the Department of Computer Science, Bayero University Kano.
+
+
+
+
+
+<style>
+body {
+text-align: justify}
+</style>
+

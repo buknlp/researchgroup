@@ -10,7 +10,7 @@ image:
 #  name: Follow
  # url: https://twitter.com/georgecushen
 #slides: example-slides
-summary: This project aims to develop Hausa language resource for natural language processing task.
+summary: This project aims to develop Hausa language resource for natural language processing task such as Hausa Social Media Corpus, Hausa Sentiment Lexicon , HausaNER , and POS.
 tags:
 - NLP
 title: HausaNLP
@@ -20,7 +20,7 @@ url_slides: ""
 url_video: ""
 ---
 
-An ongoing project towards developing Hausa language resources for Natural Language Processing, which includes:
+An ongoing project towards developing Hausa language resources for Natural Language Processing.
 
   * Hausa Social Media Corpus
   * HausaNER 
