@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AIDA OSMAN | BUKNLP Research Group</title>
-    <link>/author/aida-osman/</link>
-      <atom:link href="/author/aida-osman/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://buknlp.github.io/researchgroup/author/aida-osman/</link>
+      <atom:link href="https://buknlp.github.io/researchgroup/author/aida-osman/index.xml" rel="self" type="application/rss+xml" />
     <description>AIDA OSMAN</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020 BUKNLP Research Group </copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020 BUKNLP Research Group. Developed by Shmuhammad</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0582a6b20ca56a312d8243a49944178d_19549_512x512_fill_lanczos_center_2.png</url>
+      <url>https://buknlp.github.io/researchgroup/images/icon_hu0582a6b20ca56a312d8243a49944178d_19549_512x512_fill_lanczos_center_2.png</url>
       <title>AIDA OSMAN</title>
-      <link>/author/aida-osman/</link>
+      <link>https://buknlp.github.io/researchgroup/author/aida-osman/</link>
     </image>
     
     <item>
       <title>CURRENT TRENDS AND RESEARCH DIRECTIONS IN THE DICTIONARY-BASED APPROACH FOR SENTIMENT LEXICON GENERATION: A SURVEY</title>
-      <link>/publication/osman-2019-current/</link>
+      <link>https://buknlp.github.io/researchgroup/publication/osman-2019-current/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/osman-2019-current/</guid>
+      <guid>https://buknlp.github.io/researchgroup/publication/osman-2019-current/</guid>
       <description></description>
     </item>
     
