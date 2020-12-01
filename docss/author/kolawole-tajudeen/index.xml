@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kolawole Tajudeen | BUKNLP Research Group</title>
+    <link>https://buknlp.github.io/researchgroup/author/kolawole-tajudeen/</link>
+      <atom:link href="https://buknlp.github.io/researchgroup/author/kolawole-tajudeen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kolawole Tajudeen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020 BUKNLP Research Group. Developed by Shmuhammad</copyright><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://buknlp.github.io/researchgroup/images/icon_hu0582a6b20ca56a312d8243a49944178d_19549_512x512_fill_lanczos_center_2.png</url>
+      <title>Kolawole Tajudeen</title>
+      <link>https://buknlp.github.io/researchgroup/author/kolawole-tajudeen/</link>
+    </image>
+    
+    <item>
+      <title>Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages</title>
+      <link>https://buknlp.github.io/researchgroup/publication/nekoto-2020-aa/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://buknlp.github.io/researchgroup/publication/nekoto-2020-aa/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
